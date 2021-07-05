@@ -1,0 +1,8 @@
+{
+    "Accueil": "/",
+    "VAM": "/vehicule-mobilite/assurance-auto",
+    "ARS": "/epargne-patrimoine/assurance-vie",
+    "AHA": "/habitation/assurance-habitation",
+    "RASSURCAP": "/famille-vie-quotidienne/assurance-deces",
+    "APB":"/habitation/assurance-proprietaire-non-occupant-bailleur"
+}

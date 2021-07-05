@@ -1,0 +1,5 @@
+{
+  "desktop": {"viewportWidth": 1920, "viewportHeight": 1080},
+  "galaxyS5": {"viewportWidth": 360, "viewportHeight": 640},
+  "iPhoneX": {"viewportWidth": 376, "viewportHeight": 812}
+}

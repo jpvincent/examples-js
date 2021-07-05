@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test_baseline": "cypress run  --browser /usr/bin/google-chrome --spec ./cypress/integration/screenshot.spec.js",
+    "test": "cypress run  --browser /usr/bin/google-chrome --spec ./cypress/integration/vrt.spec.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@visual-regression-tracker/agent-cypress": "^4.7.3",
+    "@visual-regression-tracker/agent-cypress": "^5.0.0",
     "cypress": "^6.6.0"
-  }
+  },
+  "devDependencies": {}
 }
